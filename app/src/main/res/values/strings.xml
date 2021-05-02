@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Manga Project</string>
+
+    <string-array name="title">
+        <item>KINGDOM</item>
+        <item>SOLO LEVELING</item>
+        <item>THE BREAKER</item>
+        <item>BERSERK</item>
+        <item>THE PROMISED NEVERLAND</item>
+        <item>ONE PUNCH MAN</item>
+        <item>DEATH NOTE</item>
+        <item>IBITSU</item>
+        <item>HELLSING</item>
+        <item>GTO</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>"En Chine, il y a des centaines et des centaines d’années, le récit suit le jeune Shin dans son chemin vers l'accomplissement de son rêve"</item>
+        <item>"Lorsque d'étranges portails sont apparus aux quatre coins du monde, l'humanité a dû trouver une parade pour ne pas finir massacrée entre les griffes des monstres qu'ils ont apportés avec eux."</item>
+        <item>"The Breaker raconte l'histoire d'un lycéen se nommant Shi-Woon et qui se fait tabasser, racketter par les membres d'une bande se trouvant dans la même classe que lui. Un jour, il fait la rencontre d'un personnage toute a fait hors du commun"</item>
+        <item>"Berserk raconte l'histoire de la rencontre de Guts et de Griffith, chef de la Troupe du Faucon, une bande de mercenaires à la solde du royaume de Midland."</item>
+        <item>"Emma et ses frères et sœurs, tous orphelins, ont été placés dans un établissement spécialisé lorsqu'ils étaient tout jeunes, un jour ils découvrent l'horrible secret de ce lieu"</item>
+        <item>"Saitama est un jeune homme sans emploi, déprimé et sans but profond dans sa vie, apres un entrainement special il se découvre des pouvoirs extraordinaires"</item>
+        <item>"Light Yagami est un lycéen surdoué qui juge le monde actuel criminel, pourri et corrompu. Sa vie change du tout au tout le jour où il ramasse par hasard un mystérieux cahier intitulé « Death Note »"</item>
+        <item>"Kazuki Itou est un jeune étudiant sans histoire qui vit seul dans un appartement. Un soir, aux alentours de minuit, alors qu'il sortait les poubelles, il tombe sur une étrange et inquiétante jeune fille vêtue d'une robe sale assise dans les ordures."</item>
+        <item>"Le manga Hellsing raconte le combat de la fondation Hellsing, en particulier de son meilleur élément, le Nosferatu Alucard ainsi que Victoria Seras , contre les goules, les vampires et même le Vatican"</item>
+        <item>"1997, Eikichi Onizuka, 22 ans, « célibataire et libre comme l'air », est un jeune professeur au passé douteux qui est nommé pour son premier poste dans une classe difficile ; il montre rapidement une vision de l'enseignement totalement décalée avec les pratiques habituelles"</item>
+    </string-array>
+
+    <string-array name="image_manga_ur">
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png</item>
+
+
+    </string-array>
+
+    <string-array name="image_manga_url">
+        <item>https://images-na.ssl-images-amazon.com/images/I/91IhAnTuK8L.jpg</item>
+        <item>https://gaak.fr/wp-content/uploads/2020/08/Vignette-Solo-Levellng.jpg</item>
+        <item>https://assets.change.org/photos/6/ei/ib/LnEiIBPlEeWVdWB-800x450-noPad.jpg?1605807812</item>
+        <item>https://45secondes.fr/wp-content/uploads/2021/04/1617761646_Berserk-reprendra-sa-pause-dans-le-manga-a-nouveau.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/I/91Av5fsl6mL.jpg</item>
+        <item>https://image.animedigitalnetwork.fr/license/onepunchman/tv/web/affiche_370x0.jpg</item>
+        <item>https://media.senscritique.com/media/000017947429/source_big/Death_Note.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/I/81UMdPYh4IL.jpg</item>
+        <item>https://freakingeek.com/wp-content/uploads/2018/06/Hellsing-Banniere-800x445.jpg</item>
+        <item>https://roadtocinema.paris/wp-content/uploads/2021/01/gto-artwork-1280x720-1.png</item>
+    </string-array>
+
+
+</resources>
+
